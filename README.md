@@ -1,16 +1,8 @@
-# application
+Our Apps is in the folder call app complete you can try and test it out!
 
-A new Flutter project.
+Please don't copy duplicate or sell before you get the permission
+If you want to use Please contact us at ozone.ap23@gmail.com 
+or +66 (0)970180445
 
-## Getting Started
+Thankyou and we hope you have fun and feel safer when you use our app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
